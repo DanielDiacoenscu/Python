@@ -35,7 +35,7 @@ ___
 
 ___
 
-## Self-Guided Portfolio Projects
+## Portfolio Projects
 ### `day083`: [CLI TicTacToe Game](./days081-090/day083/)
 ### `day084`: [Markit - Image Watermarking Software](./days081-090/day084/)
 ### `day089`: [Disappearing Text Webapp](./days081-090/day089/)
